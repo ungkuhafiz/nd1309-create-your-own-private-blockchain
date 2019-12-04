@@ -190,7 +190,7 @@ You should see in your terminal a message indicating that the server is listenin
 > Server Listening for port: 8000
 
 2. To make sure your application is working fine and it creates the Genesis Block you can use POSTMAN to request the Genesis block:
-    ![Request: http://localhost:8000/block/0 ](images/request-genesis)
+    ![Request: http://localhost:8000/block/0 ](images/request-genesis.png)
 3. Make your first request of ownership sending your wallet address:
     ![Request: http://localhost:8000/requestValidation ](https://s3.amazonaws.com/video.udacity-data.com/topher/2019/April/5ca36182_request-ownership/request-ownership.png)
 4. Sign the message with your Wallet:
